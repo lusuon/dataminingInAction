@@ -1,0 +1,4 @@
+花萼长度         花萼宽度    花瓣长度        花瓣宽度 
+Sepal.Length	Sepal.Width	 Petal.Length	Petal.Width
+  Species 包含3种花      
+iris-setosa, iris-versicolour, iris-virginica
